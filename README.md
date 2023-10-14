@@ -8,6 +8,7 @@ Welcome to the Python Basics Workshop repository! This resource is designed to h
 2. [Basic Operations and Arithmetic](02-basic-operations.md)
 3. [Introduction to Strings and String Manipulation](03-strings-and-manipulation.md)
 4. [Functions](04-functions.md)
+5. [Libraries] (05-libraries.md)
 
 ## Getting Started
 
